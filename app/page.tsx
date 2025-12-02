@@ -23,8 +23,8 @@ export default function ComingSoon() {
 						Estamos en construcción
 					</h2>
 					<p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-						Estamos trabajando duro para traerte la mejor experiencia en agua de
-						calidad premium. Pronto podrás descubrir nuestros productos.
+						Estamos trabajando duro para traerte la mejor experiencia. Pronto
+						podrás descubrir nuestros productos.
 					</p>
 
 					{/* Progress indicator */}
